@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!-- colors for blank style -->
+    <color name="colorBlank">#ffffff</color>
+
+    <color name="appYellow">#fbc502</color>
+    <color name="intro_title_color">#000000</color>
+
+    <!-- colors gia ton timer -->
+    <color name="timerOrange">#ff8800</color>
+    <color name="timerRed">#ff0808</color>
+</resources>

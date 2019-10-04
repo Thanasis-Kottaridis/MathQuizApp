@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MathQuizApp</string>
+    <string name="nav_test_btn">Test</string>
+    <string name="nav_calculator_btn">Calculator</string>
+</resources>
